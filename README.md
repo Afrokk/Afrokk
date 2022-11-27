@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓 Currently a Full-time Computer Science Student at the University of Windsor.<br> 🔭 I’m currently working on a Full Stack web-app, [Litmus.tools]([url](https://github.com/Afrokk/litmus.tools)).<br>🌱 I’m currently learning Vue.js & some backend frameworks.<br>💬 Open to Software Engineering roles where I can learn and jump on opposite sides of the stack. <br>💡 On the side, I'm an avid gamer, content creator, and photographer.<br>⚡ Fun Fact: I've built over 10 gaming PCs. 
+👨‍🎓 Currently a Full-time Computer Science Student at the University of Windsor.<br> 🔭 I’m currently working on a Full Stack web-app, [Litmus.tools](https://github.com/Afrokk/litmus.tools).<br>🌱 I’m currently learning Vue.js & some backend frameworks.<br>💬 Open to Software Engineering roles where I can learn and jump on opposite sides of the stack. <br>💡 On the side, I'm an avid gamer, content creator, and photographer.<br>⚡ Fun Fact: I've built over 10 gaming PCs. 
 
 
 ## 🌐 Socials:
