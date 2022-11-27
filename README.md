@@ -15,6 +15,3 @@
 
 ### ✍️ Favorite Dev Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
----
-[![](https://visitcount.itsvg.in/api?id=Afrokk&icon=0&color=12)](https://visitcount.itsvg.in)
