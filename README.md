@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓 Currently a Full-time Computer Science Student at the University of Windsor.<br> 🔭 I’m currently working on a Full Stack web-app, [Litmus.tools](https://github.com/Afrokk/litmus.tools).<br>🌱 I’m currently learning DSA & ExpressJS.<br>💬 Open to Software Engineering roles where I can learn and jump on opposite sides of the stack. <br>💡 On the side, I'm an avid gamer, content creator, and photographer.<br>⚡ Fun Fact: I've built over 10 gaming PCs. <br> 🌐 [afrokk.dev](https://afrokk.dev/), [afrokk.design](https://afrokk.design/)
+👨‍🎓 Currently a Full-time Computer Science Student at the University of Windsor.<br> 🔭 I’m currently working on a Full Stack web-app, [Litmus.tools](https://github.com/Afrokk/litmus.tools).<br>🌱 I’m currently learning DSA & ExpressJS.<br>💬 Open to Software Engineering roles where I can learn and jump on opposite sides of the stack. <br>💡 On the side, I'm an avid gamer, content creator, and photographer.<br>⚡ Fun Fact: I've built over 10 gaming PCs. <br> 🌐 [afrokk.dev](https://afrokk.dev/), [afrokk.design](https://afrokk.design/), [email](mailto:afrasiyabkhan379@gmail.com)
 
 
 ## 🌐 Socials:
