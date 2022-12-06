@@ -1,0 +1,74 @@
+{
+    "editor.fontFamily": "MonoLisa",
+    "editor.fontWeight": "400",
+    "workbench.colorTheme": "Noctis High Contrast",
+    "editor.letterSpacing": 0,
+    "workbench.tree.indent": 40,
+
+    // Custom Language settings
+    "[javascript]": {
+        "editor.tabSize": 2,
+        "editor.insertSpaces": true,
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+    },
+    "[typescript]": {
+        "editor.tabSize": 2,
+        "editor.insertSpaces": true
+    },
+    "[python]": {
+        "editor.tabSize": 4,
+        "editor.insertSpaces": true
+    },
+    "editor.cursorBlinking": "phase",
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.fontSize": 16,
+    "workbench.editor.splitInGroupLayout": "vertical",
+    "files.exclude": {
+    "**/.*": true
+    },
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true
+    },
+    "clang-format.executable": "/usr/bin/clang-format",
+    "clang-format.style": "google",
+    "clang-format.language.c.enable": true,
+    "[c]": {
+        "editor.insertSpaces": false,
+        "editor.defaultFormatter": "xaver.clang-format",
+        "editor.wordBasedSuggestions": false,
+        "editor.suggest.insertMode": "replace",
+        "editor.semanticHighlighting.enabled": true
+    },
+    "files.insertFinalNewline": true,
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "tabnine.experimentalAutoImports": true,
+    "editor.inlineSuggest.enabled": true,
+    "workbench.editor.enablePreview": false,
+    "debug.internalConsoleOptions": "neverOpen",
+    "code-runner.runInTerminal": true,
+    "workbench.iconTheme": "vscode-icons",
+    "git.enableSmartCommit": true,
+    "terminal.integrated.fontFamily": "monospace",
+    "files.autoSave": "afterDelay",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "github.copilot.enable": {
+        "*": true,
+        "yaml": false,
+        "plaintext": false,
+        "markdown": false,
+        "javascript": false,
+        "python": false,
+        "typescriptreact": true
+    },
+    "[typescriptreact]": {
+        "editor.tabSize": 2,
+        "editor.insertSpaces": true,
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "emmet.excludeLanguages": [],
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "security.workspace.trust.untrustedFiles": "open",
+    "window.zoomLevel": 1
+}
