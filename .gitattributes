@@ -1,2 +1,2 @@
-##Template
-xx.xx linguist-detectable=T/F
+##Config Linguist
+*.json linguist-detectable=true
