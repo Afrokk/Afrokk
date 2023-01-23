@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 <img src="readme_image.jpg" width="40%" align="right">
-👨‍🎓 Currently a Full-time Computer Science Student at the University of Windsor.<br> 🔭 I’m currently working on a mobile app called <a href="https://github.com/UsmanAJabbar/quest">Quest</a> and an API.<br>💬 Open to Software Engineering roles where I can learn and jump on opposite sides of the stack. <br>💡 On the side, I'm an avid gamer, content creator, and photographer.<br>⚡ Fun Fact: I've built over 10 gaming PCs. <br> 🌐 <a href="https://afrokk.dev/">afrokk.dev</a>, <a href="https://afrokk.design/">afrokk.design</a>, <a href="mailto:hi@afrokk.dev">email: hi@afrokk.dev</a>
+👨‍🎓 Currently a Full-time Computer Science Student at the University of Windsor.<br> 🔭 I’m currently working on a mobile app called <a href="https://github.com/UsmanAJabbar/quest">Quest</a> and an <a href="https://github.com/Afrokk/soy.rest">API</a>.<br>💬 Open to Software Engineering roles where I can learn and jump on opposite sides of the stack. <br>💡 On the side, I'm an avid gamer, content creator, and photographer.<br>⚡ Fun Fact: I've built over 10 gaming PCs. <br> 🌐 <a href="https://afrokk.dev/">afrokk.dev</a>, <a href="https://afrokk.design/">afrokk.design</a>, <a href="mailto:hi@afrokk.dev">email: hi@afrokk.dev</a>
 
 ## 🌐 Socials:
  [![DevPortfolio](https://img.shields.io/badge/Dev%20Portfolio-afrokk.dev-red?style=for-the-badge&logo=appreact)](https://afrokk.dev/) [![DesignPortfolio](https://img.shields.io/badge/Design%20Portfolio-afrokk.design-blue?style=for-the-badge&logo=appreact)](https://afrokk.design/) <br />
