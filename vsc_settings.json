@@ -1,7 +1,7 @@
 {
-    "editor.fontFamily": "MonoLisa",
-    "editor.fontWeight": "400",
-    "workbench.colorTheme": "Noctis High Contrast",
+    "editor.fontSize": 17,
+    "editor.lineHeight": 22,
+    "editor.fontFamily": "Odudo Mono",
     "editor.letterSpacing": 0,
     "workbench.tree.indent": 40,
 
@@ -11,17 +11,84 @@
         "editor.insertSpaces": true,
         "editor.defaultFormatter": "esbenp.prettier-vscode",
     },
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+          {
+            "scope": [
+              // the following elements will be in italic
+              "comment",
+              "storage.modifier", // static keyword
+              "storage.type.php", // typehints in methods keyword
+              "keyword.other.new.php", // new
+              "entity.other.attribute-name", // html attributes
+              "fenced_code.block.language.markdown", // markdown language modifier
+              "keyword", //import, export, return…
+              "storage.modifier", //static keyword
+              "storage.type", //class keyword
+              "keyword.control",
+              "constant.language",
+              "entity.other.attribute-name",
+              "entity.name.method",
+              "keyword.control.import.ts",
+              "keyword.control.import.tsx",
+              "keyword.control.import.js",
+              "keyword.control.flow.js",
+              "keyword.control.from.js",
+              "keyword.control.from.ts",
+              "keyword.control.from.tsx"
+            ],
+            "settings": {
+              "fontStyle": "italic"
+            }
+          },
+          {
+            "scope": [
+              // the following elements will be displayed in bold
+              "entity.name.type.class" // class names
+            ],
+            "settings": {
+              "fontStyle": ""
+            }
+          },
+          {
+            "scope": [
+              // the following elements will be displayed in bold and italic
+              "entity.name.section.markdown" // markdown headlines
+            ],
+            "settings": {
+              "fontStyle": "italic"
+            }
+          },
+          {
+            "scope": [
+              // the following elements will be excluded from italics
+              //   (VSCode has some defaults for italics)
+              "invalid",
+              "keyword.operator",
+              "constant.numeric.css",
+              "keyword.other.unit.px.css",
+              "constant.numeric.decimal.js",
+              "constant.numeric.json",
+              "comment.block",
+              "entity.other.attribute-name.class.css"
+            ],
+            "settings": {
+              "fontStyle": ""
+            }
+          }
+        ]
+      },
     "[typescript]": {
         "editor.tabSize": 2,
-        "editor.insertSpaces": true
+        "editor.insertSpaces": true,
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
     "[python]": {
         "editor.tabSize": 4,
         "editor.insertSpaces": true
     },
     "editor.cursorBlinking": "phase",
-    "editor.cursorSmoothCaretAnimation": true,
-    "editor.fontSize": 16,
+    "editor.cursorSmoothCaretAnimation": "on",
     "workbench.editor.splitInGroupLayout": "vertical",
     "files.exclude": {
     "**/.*": true
@@ -52,13 +119,15 @@
     "files.autoSave": "afterDelay",
     "liveServer.settings.donotShowInfoMsg": true,
     "github.copilot.enable": {
-        "*": true,
-        "yaml": false,
-        "plaintext": false,
-        "markdown": false,
-        "javascript": false,
-        "python": false,
-        "typescriptreact": true
+      "*": true,
+      "plaintext": false,
+      "markdown": false,
+      "scminput": false,
+      "yaml": false,
+      "javascript": false,
+      "python": false,
+      "typescriptreact": true,
+      "java": false
     },
     "[typescriptreact]": {
         "editor.tabSize": 2,
@@ -70,5 +139,6 @@
         "javascript": "javascriptreact"
     },
     "security.workspace.trust.untrustedFiles": "open",
+    "workbench.colorTheme": "Monokai Night",
     "window.zoomLevel": 1
 }
