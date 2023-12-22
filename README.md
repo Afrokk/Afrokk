@@ -1,14 +1,16 @@
 # 💫 About Me:
 
 <img src="readme_image.jpg" width="40%" align="right">
-👨‍🎓 Currently a Full-time Computer Science Student at the University of Windsor.<br> 💬 Open to Software Engineering roles where I can learn and jump on opposite sides of the stack. <br>💡 On the side, I'm an avid gamer, content creator, and photographer.<br>⚡ Fun Fact: I've built over 10 gaming PCs. <br> 🌐 <a href="https://afrokk.dev/">afrokk.dev</a>, <a href="https://afrokk.design/">afrokk.design</a>, <a href="mailto:hi@afrokk.dev">email: hi@afrokk.dev</a>
+👨‍🎓 Computer Science Grad at the University of Windsor.<br> 💬 Open to Software Engineering roles where I can jump on opposite sides of the stack. <br>💡 On the side, I'm an avid content creator, gamer, and photographer.<br>⚡ Fun Fact: I've built over 10 gaming PCs. <br> 🌐 <a href="https://afrokk.dev/">afrokk.dev</a>, <a href="https://afrokk.design/">afrokk.design</a>, <a href="mailto:hi@afrokk.dev">email:hi@afrokk.dev</a>
 
 ## 🌐 Socials:
  [![DevPortfolio](https://img.shields.io/badge/Dev%20Portfolio-afrokk.dev-red?style=for-the-badge&logo=appreact)](https://afrokk.dev/) [![DesignPortfolio](https://img.shields.io/badge/Design%20Portfolio-afrokk.design-blue?style=for-the-badge&logo=appreact)](https://afrokk.design/) <br />
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afrasiyab-k/) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/Afrokk#4056) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/afrokk_/)
 
 # 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+**Languages:** C, Java, Python, JavaScript, TypeScript, SQL (Postgres), HTML/CSS, SASS
+**Frameworks:** React, Node.js, Flask, Vue.js, Next.js, Nuxt, Express, Bootstrap, Tailwind
+**Tools:** Git, Docker, Jira, REST APIs, CI/CD, Adobe Suite, Figma
 
 # 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=Afrokk&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
