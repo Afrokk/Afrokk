@@ -11,3 +11,6 @@
 **Languages:** C, Java, Python, JavaScript, TypeScript, SQL (Postgres), HTML/CSS, SASS  
 **Frameworks:** React, Node.js, Flask, Vue.js, Next.js, Nuxt, Express, Bootstrap, Tailwind  
 **Tools:** Git, Docker, Jira, REST APIs, CI/CD, Adobe Suite, Figma
+
+# 📊 Stats:
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Afrokk&theme=github_dark)
