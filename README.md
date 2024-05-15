@@ -1,7 +1,7 @@
 # 💫 Hey there!
 
 <img src="readme_img.jpg" width="35%" align="right">
-👨‍🎓 Computer Science Grad at the University of Windsor.<br> 💬 Open to Software Engineering roles where I can jump on opposite sides of the stack. <br>💡 On the side, I'm an avid content creator, gamer, and photographer.<br>⚡ Fun Fact: I've built over 15 gaming PCs. <br> 🌐 <a href="https://afrokk.dev/">afrokk.dev</a>, <a href="https://afrokk.design/">afrokk.design</a>, <a href="mailto:hi@afrokk.dev">email:hi@afrokk.dev</a>
+🧑‍💻 Full Stack Software Engineer <br> 📡  Part of the CHIME/FRB team @ McGill, developing tools & infrastructure for astrophysical data analysis. <br>💡 On the side, I'm an avid content creator, gamer, and photographer.<br>⚡ Fun Fact: I've built over 15 gaming PCs. <br> 🌐 <a href="https://afrokk.dev/">afrokk.dev</a>, <a href="https://afrokk.design/">afrokk.design</a>, <a href="mailto:hi@afrokk.dev">email:hi@afrokk.dev</a>
 
 ## 🌐 Socials:
  [![DevPortfolio](https://img.shields.io/badge/Dev%20Portfolio-afrokk.dev-red?style=for-the-badge&logo=appreact)](https://afrokk.dev/) [![DesignPortfolio](https://img.shields.io/badge/Design%20Portfolio-afrokk.design-blue?style=for-the-badge&logo=appreact)](https://afrokk.design/) <br />
