@@ -1,144 +1,167 @@
 {
-    "editor.fontSize": 17,
-    "editor.lineHeight": 22,
-    "editor.fontFamily": "Odudo Mono",
-    "editor.letterSpacing": 0,
-    "workbench.tree.indent": 40,
+  "editor.fontSize": 16,
+  "editor.lineHeight": 22,
+  "editor.fontFamily": "Odudo Mono",
+  "workbench.colorTheme": THEME,
+  "editor.letterSpacing": 0,
+  "workbench.tree.indent": 40,
+  "editor.formatOnSave": true,
 
-    // Custom Language settings
-    "[javascript]": {
-        "editor.tabSize": 2,
-        "editor.insertSpaces": true,
-        "editor.defaultFormatter": "esbenp.prettier-vscode",
-    },
-    "editor.tokenColorCustomizations": {
-        "textMateRules": [
-          {
-            "scope": [
-              // the following elements will be in italic
-              "comment",
-              "storage.modifier", // static keyword
-              "storage.type.php", // typehints in methods keyword
-              "keyword.other.new.php", // new
-              "entity.other.attribute-name", // html attributes
-              "fenced_code.block.language.markdown", // markdown language modifier
-              "keyword", //import, export, return…
-              "storage.modifier", //static keyword
-              "storage.type", //class keyword
-              "keyword.control",
-              "constant.language",
-              "entity.other.attribute-name",
-              "entity.name.method",
-              "keyword.control.import.ts",
-              "keyword.control.import.tsx",
-              "keyword.control.import.js",
-              "keyword.control.flow.js",
-              "keyword.control.from.js",
-              "keyword.control.from.ts",
-              "keyword.control.from.tsx"
-            ],
-            "settings": {
-              "fontStyle": "italic"
-            }
-          },
-          {
-            "scope": [
-              // the following elements will be displayed in bold
-              "entity.name.type.class" // class names
-            ],
-            "settings": {
-              "fontStyle": ""
-            }
-          },
-          {
-            "scope": [
-              // the following elements will be displayed in bold and italic
-              "entity.name.section.markdown" // markdown headlines
-            ],
-            "settings": {
-              "fontStyle": "italic"
-            }
-          },
-          {
-            "scope": [
-              // the following elements will be excluded from italics
-              //   (VSCode has some defaults for italics)
-              "invalid",
-              "keyword.operator",
-              "constant.numeric.css",
-              "keyword.other.unit.px.css",
-              "constant.numeric.decimal.js",
-              "constant.numeric.json",
-              "comment.block",
-              "entity.other.attribute-name.class.css"
-            ],
-            "settings": {
-              "fontStyle": ""
-            }
-          }
-        ]
+  // Custom Language settings
+  "[javascript]": {
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": [
+          // the following elements will be in italic
+          "comment",
+          "storage.modifier", // static keyword
+          "storage.type.php", // typehints in methods keyword
+          "keyword.other.new.php", // new
+          "entity.other.attribute-name", // html attributes
+          "fenced_code.block.language.markdown", // markdown language modifier
+          "keyword", //import, export, return…
+          "storage.modifier", //static keyword
+          "storage.type", //class keyword
+          "keyword.control",
+          "constant.language",
+          "entity.other.attribute-name",
+          "entity.name.method",
+          "keyword.control.import.ts",
+          "keyword.control.import.tsx",
+          "keyword.control.import.js",
+          "keyword.control.flow.js",
+          "keyword.control.from.js",
+          "keyword.control.from.ts",
+          "keyword.control.from.tsx"
+        ],
+        "settings": {
+          "fontStyle": "italic"
+        }
       },
-    "[typescript]": {
-        "editor.tabSize": 2,
-        "editor.insertSpaces": true,
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
-    "[python]": {
-        "editor.tabSize": 4,
-        "editor.insertSpaces": true
-    },
-    "editor.cursorBlinking": "phase",
-    "editor.cursorSmoothCaretAnimation": "on",
-    "workbench.editor.splitInGroupLayout": "vertical",
-    "files.exclude": {
-    "**/.*": true
-    },
-    "editor.codeActionsOnSave": {
-        "source.fixAll": true
-    },
-    "clang-format.executable": "/usr/bin/clang-format",
-    "clang-format.style": "google",
-    "clang-format.language.c.enable": true,
-    "[c]": {
-        "editor.insertSpaces": false,
-        "editor.defaultFormatter": "xaver.clang-format",
-        "editor.wordBasedSuggestions": false,
-        "editor.suggest.insertMode": "replace",
-        "editor.semanticHighlighting.enabled": true
-    },
-    "files.insertFinalNewline": true,
-    "terminal.integrated.enableMultiLinePasteWarning": false,
-    "tabnine.experimentalAutoImports": true,
-    "editor.inlineSuggest.enabled": true,
-    "workbench.editor.enablePreview": false,
-    "debug.internalConsoleOptions": "neverOpen",
-    "code-runner.runInTerminal": true,
-    "workbench.iconTheme": "vscode-icons",
-    "git.enableSmartCommit": true,
-    "terminal.integrated.fontFamily": "monospace",
-    "files.autoSave": "afterDelay",
-    "liveServer.settings.donotShowInfoMsg": true,
-    "github.copilot.enable": {
-      "*": true,
-      "plaintext": false,
-      "markdown": false,
-      "scminput": false,
-      "yaml": false,
-      "javascript": false,
-      "python": false,
-      "typescriptreact": true,
-      "java": false
-    },
-    "[typescriptreact]": {
-        "editor.tabSize": 2,
-        "editor.insertSpaces": true,
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
-    "emmet.excludeLanguages": [],
-    "emmet.includeLanguages": {
-        "javascript": "javascriptreact"
-    },
-    "security.workspace.trust.untrustedFiles": "open",
-    "workbench.colorTheme": "Monokai Night",
-    "window.zoomLevel": 1
+      {
+        "scope": [
+          // the following elements will be displayed in bold
+          "entity.name.type.class" // class names
+        ],
+        "settings": {
+          "fontStyle": ""
+        }
+      },
+      {
+        "scope": [
+          // the following elements will be displayed in bold and italic
+          "entity.name.section.markdown" // markdown headlines
+        ],
+        "settings": {
+          "fontStyle": "italic"
+        }
+      },
+      {
+        "scope": [
+          // the following elements will be excluded from italics
+          //   (VSCode has some defaults for italics)
+          "invalid",
+          "keyword.operator",
+          "constant.numeric.css",
+          "keyword.other.unit.px.css",
+          "constant.numeric.decimal.js",
+          "constant.numeric.json",
+          "comment.block",
+          "entity.other.attribute-name.class.css"
+        ],
+        "settings": {
+          "fontStyle": ""
+        }
+      }
+    ]
+  },
+  "[typescript]": {
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+  },
+  "[python]": {
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true
+  },
+  "editor.cursorBlinking": "phase",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "workbench.editor.splitInGroupLayout": "vertical",
+  "files.exclude": {
+    "**/.github": false
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit"
+  },
+  "clang-format.executable": "/usr/bin/clang-format",
+  "clang-format.style": "google",
+  "clang-format.language.c.enable": true,
+  "[c]": {
+    "editor.insertSpaces": false,
+    "editor.defaultFormatter": "xaver.clang-format",
+    "editor.wordBasedSuggestions": "off",
+    "editor.suggest.insertMode": "replace",
+    "editor.semanticHighlighting.enabled": true
+  },
+  "files.insertFinalNewline": true,
+  "terminal.integrated.fontFamily": "MesloLGS NF",
+  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.shellIntegration.enabled": true,
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "terminal.integrated.defaultProfile.linux": "zsh",
+  "tabnine.experimentalAutoImports": true,
+  "editor.inlineSuggest.enabled": true,
+  "workbench.editor.enablePreview": false,
+  "debug.internalConsoleOptions": "neverOpen",
+  "code-runner.runInTerminal": true,
+  "workbench.iconTheme": "bearded-icons",
+  "git.enableSmartCommit": true,
+  "files.autoSave": "afterDelay",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "github.copilot.enable": {
+    "*": true,
+    "plaintext": false,
+    "markdown": true,
+    "scminput": false,
+    "yaml": false,
+    "javascript": true,
+    "python": true,
+    "typescriptreact": true
+  },
+  "[typescriptreact]": {
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "emmet.excludeLanguages": [],
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "security.workspace.trust.untrustedFiles": "open",
+  "workbench.sideBar.location": "right",
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "markdown-preview-enhanced.previewTheme": "github-dark.css",
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "github.copilot.editor.enableAutoCompletions": true,
+  "[vue]": {
+    "editor.defaultFormatter": "Vue.volar"
+  },
+  "[yaml]": {
+    "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+  }
 }
