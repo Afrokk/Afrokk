@@ -1,2 +1,6 @@
 ##Config Linguist
 *.json linguist-detectable=true
+*.yml linguist-detectable=true
+*.yaml linguist-detectable=true
+*.zshrc linguist-detectable=true
+*.sh linguist-detectable=true
