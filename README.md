@@ -2,10 +2,10 @@
 
 <img src="readme_img.jpg" alt="Afrokk profile" align="right" width="280" />
 
-🧑‍💻 **Full-Stack Software Engineer**  
-📡 Writing code for the cosmos 
-🎮 Creator • Gamer • Photographer  
-⚡ Fun fact: I’ve built 20+ gaming PCs  
+🧑‍💻 **Full-Stack Software Engineer**<br/>
+📡 Writing code for the cosmos<br/>
+🎮 Creator • Gamer • Photographer<br/>
+⚡ Fun fact: I’ve built 20+ gaming PCs<br/>
 🌐 <a href="https://afrokk.dev/">afrokk.dev</a> • <a href="mailto:hi@afrokk.dev">hi@afrokk.dev</a>
 
 ## 🌐 My Work
