@@ -1,16 +1,22 @@
 # 💫 Hey there!
 
-<img src="readme_img.jpg" width="35%" align="right">
-🧑‍💻 Full Stack Software Engineer <br> 📡  Writing code for the sky <br>💡 On the side, I'm an avid content creator, gamer, and photographer.<br>⚡ Fun Fact: I've built over 15 gaming PCs. <br> 🌐 <a href="https://afrokk.dev/">afrokk.dev</a>, <a href="mailto:hi@afrokk.dev">email:hi@afrokk.dev</a>
+<img src="readme_img.jpg" alt="Afrokk profile" align="right" width="280" />
 
-## 🌐 Socials:
- [![DevPortfolio](https://img.shields.io/badge/Dev%20Portfolio-afrokk.dev-red?style=for-the-badge&logo=appreact)](https://afrokk.dev/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afrasiyab-k/) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/Afrokk#4056) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/afrokk_/)
+🧑‍💻 **Full-Stack Software Engineer**  
+📡 Writing code for the cosmos 
+🎮 Creator • Gamer • Photographer  
+⚡ Fun fact: I’ve built 20+ gaming PCs  
+🌐 <a href="https://afrokk.dev/">afrokk.dev</a> • <a href="mailto:hi@afrokk.dev">hi@afrokk.dev</a>
 
-# 💻 Tech Stack:
-**Languages:** C, Java, Python, JavaScript, TypeScript, SQL (Postgres), HTML/CSS, SASS  
-**Frameworks:** React, Node.js, Flask, Vue.js, Next.js, Nuxt, Express, Bootstrap, Tailwind  
-**Tools:** Git, Docker, Jira, REST APIs, CI/CD, Adobe Suite, Figma
+## 🌐 My Work
+[![DevPortfolio](https://img.shields.io/badge/Dev%20Portfolio-afrokk.dev-red?style=for-the-badge&logo=vercel)](https://afrokk.dev/)<br/>
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0004--4176--0062-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-4176-0062)<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afrasiyab-k/)<br/>
 
-# 📊 Stats:
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Afrokk&theme=github_dark)
+## 🔧 Technologies
+React / Next.js • Vue / Nuxt • Svelte • Node • Python • Sanic / Flask / Django • MongoDB • PostgreSQL / MySQL • Docker • Kubernetes • GCP • Prometheus/Grafana • NFS/ZFS • Traefik • CI/CD
+
+<br clear="right"/>
+
+## 📊 Stats
+![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Afrokk&theme=github_dark)
