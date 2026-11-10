@@ -24,7 +24,7 @@ I take something complicated and make it feel simple. At McGill, that's petabyte
 ### Currently building
 
 - **Software for a radio telescope.** [CHIME/FRB](https://www.chime-frb.ca) catches fast radio bursts from other galaxies. I build the systems that get them to astronomers, and the applications where anyone can browse them.
-- **[afrokk.studio](https://afrokk.studio)**, where we build products end to end with a few founders at a time. Say hello: [hi@afrokk.dev](mailto:hi@afrokk.dev).
+- **[afrokk.studio](https://afrokk.studio)**, where we build products end to end with a few founders at a time. Say hi: [hello@afrokk.studio](mailto:hello@afrokk.studio).
 - **[Echo Thérapie](https://github.com/Echo-Therapie)**, with the studio: AI session management for therapists in Québec.
 - **[Seed Jamaica](https://seedja.com)**, with the studio: people-first microloans for everyday Jamaicans.
 
